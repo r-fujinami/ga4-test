@@ -31,4 +31,4 @@
       gtag('event', 'user_profile_updated');
       setLog('ユーザー属性 (user_type: tester) を設定してイベントを送信しました');
     });
-  </script>
+ 
